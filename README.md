@@ -1,2 +1,11 @@
 # Group-9-Project
-A project for group 9 at Gokstad Akademiet Frontend
+Et prosjekt for gruppe 9 ved Gokstad Akademiet Frontend
+
+Medlemmer i gruppa:
+Kristin Mack Alnæs
+Ole Lasse Bjellaas
+Stian Barstad
+Taran Nilssen
+
+Valgt kundecase:
+Potepass
