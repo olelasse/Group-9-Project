@@ -33,8 +33,8 @@ Taran Nilssen
 
 ### Sidefordeling
 
-Forside: Ole Lasse (Reserve: Kristin)
-Hundeier-profil: Taran (Reserve: Stian)
-Hundepasser-profil: Kristin (Reserve: Taran)
-Bookingside: Ole Lasse (Reserve: Kristin)
+Forside: Ole Lasse (Reserve: Kristin)\
+Hundeier-profil: Taran (Reserve: Stian)\
+Hundepasser-profil: Kristin (Reserve: Taran)\
+Bookingside: Ole Lasse (Reserve: Kristin)\
 Hundepasser-liste: Stian (Reserve: Ole Lasse)
