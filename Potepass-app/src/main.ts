@@ -1,0 +1,17 @@
+import "./style.css";
+import potepassLogo from "/logo_potepass.png";
+
+document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
+  <div>
+    <a href="https://vite.dev" target="_blank">
+      <img src="${potepassLogo}" class="logo" alt="Vite logo" />
+    </a>
+    <h1>Vite + TypeScript</h1>
+    <div class="card">
+      <button id="counter" type="button"></button>
+    </div>
+    <p class="read-the-docs">
+      Click on the Vite and TypeScript logos to learn more
+    </p>
+  </div>
+`;

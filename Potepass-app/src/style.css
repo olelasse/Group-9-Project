@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Quicksand:wght@300..700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  --background1: #e8d3c2; /* Fersken lys */
+  --background2: #e2e0e1; /* Grå lys */
+  --background3: #bbd0db; /* Blå lys */
+  --font1: #44362f; /* Brun mørk */
+  --font2: #293745; /* Blå mørk */
+  --font3: #33494a; /* Blå mørk */
+}
+
+body {
+  min-height: 100vh;
+  font-family: "Quicksand", sans-serif;
+  font-size: 1.2rem;
+  background-color: var(--background2);
+  color: var(--font2);
+}
+
+a {
+  color: var(--font2);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Caveat", cursive;
+}
+
+header,
+footer {
+  background-color: var(--background1);
+  color: var(--font1);
+  a {
+    color: var(--font1);
+    &:hover {
+      color: var(--font3);
+    }
+  }
+}
+
+header a,
+footer a {
+  color: var(--font2);
+}
